@@ -1,0 +1,9 @@
+spring:
+  data:
+    mongodb:
+      database: ujjaindb
+      host: localhost
+      port: 27017
+      username: harish
+      password:
+      - 1234
