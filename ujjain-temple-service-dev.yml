@@ -2,7 +2,7 @@ spring:
   data:
     mongodb:
       database: ujjaindb
-      host: mongo-nu04n.mongodb.net
+      host: localhost
       port: 27017
-      username: mongo
-      password: mongo
+      username: Harish
+      password: 1234
