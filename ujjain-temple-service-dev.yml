@@ -5,5 +5,4 @@ spring:
       host: mongo-nu04n.mongodb.net
       port: 27017
       username: mongo
-      password:
-      - mongo
+      password: mongo
