@@ -6,3 +6,6 @@ spring:
       port: 27017
       username: mongo
       password: mongo
+      autoConnectRetry: true
+      socketKeepAlive: true
+      socketTimeout: 1500
